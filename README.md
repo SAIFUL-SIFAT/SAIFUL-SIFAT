@@ -1,6 +1,6 @@
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
+<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/5132.gif">
 </div>
 
 </br>
@@ -10,11 +10,11 @@
 
 
 <h1 align="center">Hi 👋, I'm SAIFUL-SIFAT</h1>
-<h3 align="center">Want to become a data analyst from Bangladesh</h3>
+<h3 align="center">Want to become a data analyst </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saiful-sifat&label=Profile%20views&color=0e75b6&style=flat" alt="saiful-sifat" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saiful-sifat" alt="saiful-sifat" /></a> </p>
+
 
 - 🌱 I’m currently learning **data analysis**
 
