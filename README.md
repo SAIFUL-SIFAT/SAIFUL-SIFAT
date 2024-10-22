@@ -35,4 +35,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saiful-sifat&show_icons=true&locale=en" alt="saiful-sifat" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saiful-sifat&" alt="saiful-sifat" /></p>
