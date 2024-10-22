@@ -18,7 +18,7 @@
 
 - 🌱 I’m currently learning **data analysis**
 
-- 📫 How to reach me **sifat.sai3@gmail.com**
+- 📫 How to reach me -<br>**sifat.sai3@gmail.com**<br>**www.linkedin.com/in/sifat-saiful-4443a6323**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
