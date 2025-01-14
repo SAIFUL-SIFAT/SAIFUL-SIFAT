@@ -10,13 +10,13 @@
 
 
 <h1 align="center">Hi 👋, I'm SAIFUL-SIFAT</h1>
-<h3 align="center">Want to become a data analyst </h3>
+<!-- <h3 align="center">Want to become a data analyst </h3> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saiful-sifat&label=Profile%20views&color=0e75b6&style=flat" alt="saiful-sifat" /> </p>
 
 
 
-- 🌱 I’m currently learning **data analysis**
+
 
 - 📫 How to reach me -<br>**sifat.sai3@gmail.com**<br>**www.linkedin.com/in/sifat-saiful-4443a6323**
 
@@ -69,9 +69,9 @@
     <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
     </a>&nbsp;&nbsp;
-    <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer">
+<!--     <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/>
-    </a>&nbsp;&nbsp;
+    </a>&nbsp;&nbsp; -->
     <a href="https://www.php.net/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
     </a>
