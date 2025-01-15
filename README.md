@@ -1,6 +1,6 @@
 
 <div align="center">
-<img hight="200" width="300" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/5132.gif">
+<!-- <img hight="200" width="300" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/5132.gif"> -->
 </div>
 
 </br>
