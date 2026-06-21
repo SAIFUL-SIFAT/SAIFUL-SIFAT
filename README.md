@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=SAIFUL%20SIFAT&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=SAIFUL%20SIFAT&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=45" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&width=700&lines=Building+scalable+full-stack+systems;Exploring+AI+%26+Machine+Learning+frontiers;Crafting+clean%2C+production-grade+software;Open+to+challenging+engineering+roles)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Software+Engineer+%7C+Full+Stack+Developer)](https://git.io/typing-svg)
 
 <br/>
 
@@ -44,7 +44,7 @@
 
 I am a **Software Engineer** and **Full Stack Developer** currently pursuing a Bachelor of Science in Computer Science at **American International University-Bangladesh (AIUB)**. My engineering philosophy centers on building systems that are clean, scalable, and production-ready from day one.
 
-I specialize in designing and shipping end-to-end web applications — from architecting robust backend APIs with **NestJS** and **ASP.NET MVC** to crafting performant, accessible frontends with **Next.js** and **TypeScript**. I maintain a strong foundation in systems-level thinking through C++ and Python, and I am actively deepening my expertise in **AI/ML integration**, **system design patterns**, and **distributed architectures**.
+I specialize in designing and shipping end-to-end web applications — from architecting robust backend APIs with **NestJS** and **ASP.NET MVC** to crafting performant, accessible frontends with **Next.js** and **TypeScript**. I am actively deepening my expertise in **system design patterns**, and **distributed architectures**.
 
 Previously, I completed a **Software Engineering Internship at Polygon Technology** where I contributed to real-world product pipelines, collaborated on cross-functional engineering teams, and shipped production-grade features under industry constraints.
 
