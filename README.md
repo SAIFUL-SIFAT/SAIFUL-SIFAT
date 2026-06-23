@@ -116,7 +116,7 @@ Contributed to production engineering workflows at Polygon Technology, working w
 
 ---
 
-## ◈ Contribution Snake
+
 
 <div align="center">
 
